@@ -51,8 +51,8 @@
 
 
 <CENTER><h2>PROJECT 1<h2>
-        <h3>View:<span> <a href="URL of the web page to go to">Text that will be the link</a> <br> 
-		Github:<span> <a href="URL of the web page to go to">Text that will be the link</a></h3></CENTER>
+        <h3>View:<span> <a href= "http://p1.susanf.pw/" >website</a> <br> 
+		Github:<span> <a href="https://github.com/Sfrank01/P1-dwa-2016">sfrank01/p1</a></h3></CENTER>
 		
 
 
